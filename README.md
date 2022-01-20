@@ -21,7 +21,7 @@ The purpose of this exercise is to give you a chance to show us your ability to 
 
 * Commit your code to a public repository (using github, bitbucket, or whatever service you prefer).
 * Include a README file with instructions on how to run your application.
-* You must use React.js or React Native for rendering the UI.
+* You must use React.js or React Native for rendering the UI. (CT note: you can use another framework if you prefer)
 * You may use any javascript framework you are familiar with to create the application â€” Express.js, Sails.js, Meteor.js, React Native, etc.
 * You may use frontend UI libraries to make styling easier.
 * Everything else is up to you.
